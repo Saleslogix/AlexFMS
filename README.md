@@ -5,6 +5,8 @@ Written by: Alex Cottner
 
 This is a project for 2013 the SalesLogix DevTap Competition. The focus of the competition is mobile application development. This project requires SlxMobile 2.2 to work.
 
+Link to Video: http://youtu.be/LEh4QggraQo
+
 Project Goal: Create a complete proof of concept for a mobile field services application using the SalesLogix Mobile 2.2 platform. The mobile end user should be able to do the following from their phone or tablet.
  * View daily schedule
  * View details for the days jobs (tickets)
